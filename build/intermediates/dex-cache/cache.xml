@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fc50deea51f4abc5c00463dd7c8b1ca8d0061026">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-idling-resource-2.2_4c60522f90e8ff8b48f1e68584f667a8cec61f0a.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_78fde1878c6bb79889df519489dcf65ac5951b3d.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_1e007753630aecd4d112f47539a0741fb9ce1439.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_e18101dc0d5fe0b14810449e9c489a128cdf2b39.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_96885d758c5083020ab1feed8325788c0e5dcef7.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="eb6b41b1aa9906a727fb4841aa000f23f63d9330">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.3_9332389c6b10979d12de79501d72456325a806aa.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_ba78fa7d272b3fbd19d46d0f527381d51ca80312.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ab48f86cc69125a49eb67ccdf2aeb69e3ec3f251.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_2a6efa1b6b175fcd9b187531f302d92f67f9b85a.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_c4d1e392498b952ebc4915411758e57a18bc0175.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_337933e5d59cf143dbb8bbc6baaf86936956d5b2.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="93a09b0222200f83779a784ac9b25c2554653495">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.3_8c06ce7b9963db4f779f089426a676081d703ec6.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_b7d2bc795bb22d971b159ad6d1f4936f11bda1db.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_3bca1d1647756d651ddf15732741c9238a110ca6.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_85510aba151f1d1c5de2a399a1d9de87ec1b927b.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_baf9611c2fe6166b25db1715b4b8fcf31a7e307e.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_0070ccb0c39f7ca83b88dbf6bc8e125a6a7c1240.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_8ee187c23ad70cbc19e5e28ee6c216bae77f8a7f.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="661482b630e92bc25fd8c5e18c561dbd413cbdc8">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-core-2.2_623e16a742b6d8c81ae81835257483fc149849e1.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="9ba8941f05fbf1826831a36c9afb82d47c9bbbb8">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.3_e39653d39c565748fdb892fe08a5471ae157e85a.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_3d38b1cd62f37e14857f0e519fe0456f630114e7.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_88e039761a8e79ec947f498546f867851ad85811.jar" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_f9398b63e1a6425cce5d4001ac71a3f6ee2394bc.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_7a94bb7220075872a7f4cf74d65252acdf874c0b.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_0ee178eccee8f72dde5b8d3ceb9170addf7fea1e.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_4bb29b70862e07a4c0c7aace47652727b223fdfc.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_7e84a58f14b03e539c66973b1348dfcc92b37959.jar" />
+    </item>
+    <item
+        jar="/root/Documents/Android/BCAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/root/Documents/Android/BCAS/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_30379421d3fc983962d594b57ee95b7065e4b948.jar" />
+    </item>
+
+</items>

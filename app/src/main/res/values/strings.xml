@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BCAS</string>
+    <string name="prompt">Hey</string>
+    <string name="okay_button">Okay, let\'s see!</string>
+</resources>
